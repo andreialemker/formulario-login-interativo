@@ -18,21 +18,9 @@ Um formulário moderno e interativo de Login e Cadastro (Sign In / Sign Up) com 
 <img width="1747" height="883" alt="tela login" src="https://github.com/user-attachments/assets/f69ca01c-c52f-439b-98f5-b752a6a44cb9" />
 
 
-
----
-
-## ✨ Funcionalidades
-
-- **Design Responsivo:** Adapta-se a diferentes tamanhos de ecrã.
-- **Transições Animadas:** Painéis deslizantes suaves entre as telas de login e cadastro.
-- **UI/UX Moderna:** Interface limpa, intuitiva e com tipografia personalizada.
-- **Validação Básica:** Campos estruturados para captura de dados do utilizador.
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
-As seguintes tecnologias foram empregadas no desenvolvimento deste projeto:
 
 - **HTML5:** Estruturação semântica do conteúdo.
 - **CSS3:** Estilização, animações, keyframes e variáveis CSS.
