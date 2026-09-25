@@ -6,18 +6,18 @@ Um formulário moderno e interativo de Login e Cadastro (Sign In / Sign Up) com 
 
 ## 🚀 Demo / Projeto Online
 
-Muda o link abaixo para ver o projeto a rodar ao vivo:
 👉 [Acessar a Aplicação](https://andreialemker.github.io/formulario-login-interativo/)
 
 ---
 
 ## 📸 Screenshots
 
-*(Tira um print do teu projeto e coloca a imagem na pasta `assets` para exibir aqui)*
 
 | Tela de Login | Tela de Cadastro |
-| :---: | :---: |
-| ![Login](./assets/background.webp) | ![Cadastro](./assets/background.webp) |
+
+<img width="1747" height="883" alt="tela login" src="https://github.com/user-attachments/assets/f69ca01c-c52f-439b-98f5-b752a6a44cb9" />
+
+
 
 ---
 
